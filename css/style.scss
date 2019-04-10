@@ -1,0 +1,15 @@
+$primary-color: #333;
+
+main{
+    background-color: red;
+
+    .container {
+        font-size: 22px;
+        font-weight: bold;
+
+        .row{
+            color: blue;
+            
+        }
+    }
+}
